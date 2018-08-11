@@ -19,7 +19,7 @@ class PCoach {
         PCoach & operator=(PCoach && rhs);
     private:
         int pid;
-        
+
 };
 
 
